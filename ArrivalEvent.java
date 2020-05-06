@@ -22,7 +22,7 @@ public class ArrivalEvent extends Event {
         this.serList = serList;
         this.rg = rg;
     }
-    
+   
     /* overrides */
     @Override
     public Event getNextEvent() {     
